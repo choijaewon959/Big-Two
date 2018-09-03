@@ -9,6 +9,8 @@ Mainly Focused on Multi-thread handling on local server, Simple GUI for users to
 2.  Run BigTwoClient.java class so that the total number of players in the game is 4. Game only starts when all the 4 players are ready to play the game.
 3.  On each client console, it will notice the player of first turn.
 
+![screenshot](https://github.com/choijaewon959/Big-Two/blob/master/screenshots/screen-gameplaying-withServerConsole.PNG)
+
 # The Flow and Rules of the Game
 * Standard 52 card pack is used.
 * The order of ranks of the cards go from High to Low: 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3.
