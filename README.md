@@ -31,3 +31,8 @@ Mainly Focused on Multi-thread handling on local server, Simple GUI for users to
 * Full House: This hand consists of five cards, with two having the same rank and three having another same rank. The card in the triplet with the highest suit in a full house is referred to as the top card of this full house. A full house always beats any straights and flushes. A full house having a top card with a higher rank beats a full house having a top card with a lower rank.
 * Quad: This hand consists of five cards, with four having the same rank. The card in the quadruplet with the highest suit in a quad is referred to as the top card of this quad. A quad always beats any straights, flushes, and full houses. A quad having a top card with a higher rank beats a quad having a top card with a lower rank.
 * Straight Flush: This hand consists of five cards with consecutive ranks and the smae suits. For the sake of the simplicity, 2 and A can only form a straight flush with K but not with 3. The card with the highest rank in a straight flush is referred to as the top card of this straight flush. A straight flush having a top card with a higher rank beats a straight flush having a top card with a lower rank. For straight flushes having top cards with the same rank, the one having a top card with a higher suit beats one having a top card with a lower suit.
+
+# References
+En.wikipedia.org. (2018). Big two. [online] Available at: https://en.wikipedia.org/wiki/Big_two [Accessed 3 Sep. 2018].
+
+Object-Oriented Programming and Java. (2018). Mr. Justin Yum, pp.6-11.
